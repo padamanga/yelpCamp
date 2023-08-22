@@ -4,14 +4,6 @@ if (process.env.NODE_ENV !== "production")
     require('dotenv').config();
 }
 
-
-//<password>-->vBb9h11BTCLQLiw7
-
-//mongodb+srv://the-new-user:<password>@cluster0.5vnov.mongodb.net/?retryWrites=true&w=majority
-
-
-
-
 const express = require('express');
 const mongoose = require('mongoose');
 const path = require('path');
