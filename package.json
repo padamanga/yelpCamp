@@ -2,8 +2,8 @@
   "name": "yelpcamp",
   "version": "1.0.0",
   "description": "The YelCamp App",
+  "start": "node app.js",
   "scripts": {
-            "start": "node app.js",
             "start": "node app.js"
           },
   "scripts": {
